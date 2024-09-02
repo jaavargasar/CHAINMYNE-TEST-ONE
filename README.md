@@ -1,4 +1,4 @@
-This application was build with React Native
+This application was built with React Native
 node version: v20.15.1
 npm version: 10.7.0
 
@@ -13,7 +13,7 @@ npm start
 After it run with success you can check the functionality with the following way:
 
 -   After npm start has finished, you can type the letter w and wait for the browser to be open and shows the application running
--   Please download the application in the PlayStore or in the apple store called: "Expo", inside there there is an option to scan
+-   Please download the application in the PlayStore or in the apple store called: "Expo", inside there is an option to scan
     a QR code. After npm start finished, it will show a QR which it can be scanned and then the application will run locally in your
     personal cellphone
 
